@@ -17,6 +17,6 @@
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1",
-    "web3": "^1.2.6"
+    "web3": "^4.8.0"
   }
 }
