@@ -16,7 +16,7 @@
   "author": "Solange Gueiros <solangegueiros@gmail.com> (https://solange.dev)",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.19.2",
     "web3": "^1.2.6"
   }
 }
